@@ -14,7 +14,7 @@ import { PeoplePage,
         StarshipPage,
         LoginPage,
         SecretPage } from "../pages";
-import { BrowserRouter as Router, Routes, Route,useParams, useNavigate } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route,useParams/*, useNavigate*/ } from "react-router-dom";
 /*
 import {
     PersonDetails,
